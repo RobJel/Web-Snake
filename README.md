@@ -1,5 +1,5 @@
 WASD to play, B to restart. 
-Run locally using live server addon in vscode or install a server:
+Run locally using live server addon in vscode or install a server like serve:
 
 npm install -g serve
 
